@@ -14,6 +14,7 @@ import co.com.beans.Profesor;
 public class MainClass {
 
 	public static void main(String[] args) {
+		//Ejercicio 22/05/2019
 		// TODO Auto-generated method stub
 		
 		//Se instancia el estudiante y se crea un estudiante llenando los datos 
