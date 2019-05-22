@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class Estudiante extends Persona {
 	private String idE;
+	private String direccion;
 	private ArrayList<Materia> materias = new ArrayList<Materia>();
 	
 	public Estudiante() {
